@@ -1,6 +1,2 @@
-# home.md
-This page written in markdown.
-
-# Markdown title.
-
-<h1> Html Title.</h1>
+# HOME.md 
+This page written in Markdown. Trying to access this page as default page.
