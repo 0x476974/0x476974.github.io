@@ -3,4 +3,4 @@ This page written in markdown.
 
 # Markdown title.
 
-<h1> Html Titlte.</h1>
+<h1> Html Title.</h1>
