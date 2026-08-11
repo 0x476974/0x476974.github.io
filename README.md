@@ -1,45 +1,15 @@
-# 🌐 0x476974.github.io
+# 🚀 0x476974
 
-> Source for the **0x476974** website.
+👋 Welcome to **[0x476974](https://0x476974.github.io/ "0x476974")**!
 
-This repository contains the source code, assets, and configuration for the **0x476974** GitHub Pages website.
+This is the official website of the **[0x476974](https://github.com/0x476974 "0x476974")** GitHub organization 🏨. All the projects and content on this website and organization are created by 💖 **[pxoqxo](https://github.com/pxoqxo "pxoqxo")**.
 
-## 📦 What's inside?
+This is my personal playground 🥎 for learning, testing, experimenting, and documenting interesting technological knowledge 📚.
 
-- 🌐 Website source
-- 🎨 Static assets
-- 📝 Documentation
-- ⚙️ Configuration files
-- 🧩 Experiments related to the website
-- 🚀 Anything that powers the site
+Everything on this organization is free and open source 🧰. You are free to use anything you find here, but use it at your own risk. There are no guarantees or warranties provided 🔴.
 
-## ⚠️ Disclaimer
+## My Works
 
-Like everything else in the **0x476974** organization, this repository is primarily for **experimentation**.
+Thanks for visiting! ✨🚀
 
-Expect:
-- 🧪 Work in progress
-- 🔄 Frequent changes
-- 🚧 Breaking changes
-- 📝 Temporary code
-- 🤯 Weird ideas that somehow work
-
-The code here is written for learning, testing, and building—not for production use.
-
-## 🧠 Purpose
-
-This repository serves as:
-
-- 🌐 The home of the 0x476974 website
-- 📚 A place to document projects and experiments
-- 🗂️ An archive of notes and write-ups
-- 💡 A sandbox for trying new web technologies
-- 🔬 Another piece of my digital mind map
-
-## 🤝 Contributions
-
-This is a personal repository.
-
----
-
-> **"Build. Break. Learn. Repeat."** 🛠️ → 💥 → 📚 → 🚀
+[Visit Home Page 🔗](https://0x476974.github.io/ "Visit Home Page 🔗")
