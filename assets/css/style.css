@@ -1,5 +1,26 @@
-body{
-    color:#00ffff;
-    background-color:#002222;
-    font-family:monospace;
+html, body{
+    color: #00ffff;
+    background-color: #002222;
+    font-family: monospace;
+	font-size: 14px;
+}
+a, a:visited {
+    color: #ffff00;
+    text-decoration: none; 
+    outline: none;
+}
+a:hover, a:focus {
+    color: #ffff00;
+    text-decoration: underline;
+}
+a:active {
+    color: #ff00ff;
+    text-decoration: underline;
+}
+#board{
+    max-width: 800px;
+	display: block;
+	margin: auto;
+	width: 100%;
+	box-sizing: border-box;
 }
