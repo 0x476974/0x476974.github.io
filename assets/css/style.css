@@ -1,4 +1,4 @@
-html, body{
+html, body {
     color: #00ffff;
     background-color: #002222;
     font-family: monospace;
@@ -17,13 +17,13 @@ a:active {
     color: #ff00ff;
     text-decoration: underline;
 }
-#board{
+#board {
     max-width: 800px;
     display: block;
     margin: auto;
     width: 100%;
     box-sizing: border-box;
 }
-.center{
+.center {
     text-align:center;
 }
