@@ -2,7 +2,7 @@ html, body{
     color: #00ffff;
     background-color: #002222;
     font-family: monospace;
-	font-size: 14px;
+    font-size: 14px;
 }
 a, a:visited {
     color: #ffff00;
@@ -19,8 +19,11 @@ a:active {
 }
 #board{
     max-width: 800px;
-	display: block;
-	margin: auto;
-	width: 100%;
-	box-sizing: border-box;
+    display: block;
+    margin: auto;
+    width: 100%;
+    box-sizing: border-box;
+}
+.center{
+    text-align:center;
 }
