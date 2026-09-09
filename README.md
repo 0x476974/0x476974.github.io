@@ -20,5 +20,6 @@ Check out my work below, and if you have any questions, feel free to reach out t
 - [🚀 0x476974](https://github.com/0x476974/0x476974.github.io "🚀 0x476974")
 - [🚀 0x476974](https://github.com/0x476974/0x476974 "🚀 0x476974")
 - [🚀 .github](https://github.com/0x476974/.github "🚀 .github")
+- [📦 Standard Version-Style](https://github.com/0x476974/standard-version-style "📦 Standard Version-Style")
 
 Thanks for visiting! ✨🚀
