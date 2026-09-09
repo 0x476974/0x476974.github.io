@@ -12,4 +12,13 @@ Check out my work below, and if you have any questions, feel free to reach out t
 
 ## My Works
 
+- [⚡ Setup C++ Third-Party Library](https://github.com/0x476974/setup-cpp-third-party-library "⚡ Setup C++ Third-Party Library")
+- [📐 Standard sizes for logo](https://github.com/0x476974/standard-sizes-for-logo "📐 Standard sizes for logo")
+- [⚡ Quick GitHub Pages Tutorial by pxoqxo](https://github.com/0x476974/github-pages "⚡ Quick GitHub Pages Tutorial by pxoqxo")
+- [📚 GitHub Special Repositories](https://github.com/0x476974/github-repository "📚 GitHub Special Repositories")
+- [🐙 GitHub Accounts](https://github.com/0x476974/github-accounts "🐙 GitHub Accounts")
+- [🚀 0x476974](https://github.com/0x476974/0x476974.github.io "🚀 0x476974")
+- [🚀 0x476974](https://github.com/0x476974/0x476974 "🚀 0x476974")
+- [🚀 .github](https://github.com/0x476974/.github "🚀 .github")
+
 Thanks for visiting! ✨🚀
