@@ -12,14 +12,16 @@ Check out my work below, and if you have any questions, feel free to reach out t
 
 ## My Works
 
+- [📱 Android and iOS Workflow Experiments](https://github.com/0x476974/mobile-app "Android and iOS Workflow Experiments")
+- [🐤 Web UI Experiments](https://github.com/0x476974/web-ui-experiments "Web UI Experiments")
+- [📦 Standard Version-Style](https://github.com/0x476974/standard-version-style "📦 Standard Version-Style")
 - [⚡ Setup C++ Third-Party Library](https://github.com/0x476974/setup-cpp-third-party-library "⚡ Setup C++ Third-Party Library")
 - [📐 Standard sizes for logo](https://github.com/0x476974/standard-sizes-for-logo "📐 Standard sizes for logo")
 - [⚡ Quick GitHub Pages Tutorial by pxoqxo](https://github.com/0x476974/github-pages "⚡ Quick GitHub Pages Tutorial by pxoqxo")
 - [📚 GitHub Special Repositories](https://github.com/0x476974/github-repository "📚 GitHub Special Repositories")
 - [🐙 GitHub Accounts](https://github.com/0x476974/github-accounts "🐙 GitHub Accounts")
-- [🚀 0x476974](https://github.com/0x476974/0x476974.github.io "🚀 0x476974")
+- [🚀 0x476974.github.io](https://github.com/0x476974/0x476974.github.io "🚀 0x476974.github.io")
 - [🚀 0x476974](https://github.com/0x476974/0x476974 "🚀 0x476974")
 - [🚀 .github](https://github.com/0x476974/.github "🚀 .github")
-- [📦 Standard Version-Style](https://github.com/0x476974/standard-version-style "📦 Standard Version-Style")
 
 Thanks for visiting! ✨🚀
